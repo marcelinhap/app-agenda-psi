@@ -6,7 +6,7 @@ No aplicativo, o psicólogo não só poderá gerenciar a sua agenda de consultas
 
 ![Diagrama: ](diagrama_app.png)
 
-![Fluxograma: ](fluxograma.png)
+![Fluxograma: ](fluxograma_app.png)
 
 O logotipo, que foi gerado por Inteligência Artificial, foi pensado para fazer referência a todo o processo da terapia - por isso uma lagarta se transformando em borboleta. Confira a imagem de algumas telas:
 
