@@ -8,8 +8,6 @@ No aplicativo, o psicólogo não só poderá gerenciar a sua agenda de consultas
 
 ![Fluxograma: ](fluxograma_app.png)
 
-O logotipo, que foi gerado por Inteligência Artificial, foi pensado para fazer referência a todo o processo da terapia - por isso uma lagarta se transformando em borboleta. Confira a imagem de algumas telas:
-
-![Login ](Tela_Login.png) ![Cadastro ](Tela_Cadastro.png) ![Feed ](Tela_Feed.png) ![Busca ](Tela_Buscar_Resultado.png) ![Pagamento ](Tela_Pgmento.png)
+O logotipo, que foi gerado por Inteligência Artificial, foi pensado para fazer referência a todo o processo da terapia - por isso uma lagarta se transformando em borboleta. 
 
 Veja o protótipo completo do aplicativo no Figma: [Clique aqui](https://www.figma.com/proto/OCEn9z2igK8GltfVEquoAO/PROTOTIPO_IPSI?type=design&node-id=1-2&t=xuIoG2mHDmkw7Znu-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design)
