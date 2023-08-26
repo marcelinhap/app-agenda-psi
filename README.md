@@ -4,12 +4,24 @@ Com o objetivo de colocar em prática um pouco dos meus conhecimentos em UX Desi
 
 No aplicativo, o psicólogo não só poderá gerenciar a sua agenda de consultas, como também poderá ter acesso a todo o histórico do paciente - dados pessoais e os registros de cada sessão, além de ter um melhor controle dos pagamentos, assim facilitando o seu trabalho juntando todas as informações em um só lugar. Foi feito o fluxograma (Figma) e o relacionamento entre as tabelas do banco de dados (Oracle) para mostrar um pouco do processo.
 
+<div align="center">
+  
 ![Diagrama: ](diagrama_app.png)
 
+</div>
+
+<div align="center">
+  
 ![Fluxograma: ](fluxograma_app.png)
 
-O logotipo, que foi gerado por Inteligência Artificial, foi pensado para fazer referência a todo o processo da terapia - por isso uma lagarta se transformando em borboleta. Confira abaixo as telas que foram desenvolvidas no Figma:
+</div>
 
+O logotipo, que foi gerado por Inteligência Artificial, foi pensado para fazer referência a todo o processo da terapia - por isso uma lagarta se transformando em borboleta, e a cor verde do aplicativo foi escolhida por estar relacionada a saúde. Confira abaixo as telas que foram desenvolvidas no Figma:
+
+<div align="center">
+  
 ![Telas: ](telas_app.png)
+
+</div>
 
 Veja o protótipo completo do aplicativo no Figma: [Clique aqui](https://www.figma.com/proto/OCEn9z2igK8GltfVEquoAO/PROTOTIPO_IPSI?type=design&node-id=1-2&t=xuIoG2mHDmkw7Znu-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design)
