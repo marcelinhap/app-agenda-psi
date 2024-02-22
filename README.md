@@ -2,7 +2,7 @@
 
 Com o objetivo de colocar em prática um pouco dos meus conhecimentos em UX Design e tecnologia no geral, e após conversar com alguns profissionais da área de psicologia, surgiu a ideia deste aplicativo para ajudá-los a organizar melhor a agenda de consultas.
 
-No aplicativo, o psicólogo não só poderá gerenciar a sua agenda de consultas, como também poderá ter acesso a todo o histórico do paciente - dados pessoais e os registros de cada sessão, além de ter um melhor controle dos pagamentos, assim facilitando o seu trabalho juntando todas as informações em um só lugar. Foi feito o fluxograma (Figma) e o relacionamento entre as tabelas do banco de dados (Oracle) para mostrar um pouco do processo.
+No aplicativo, o psicólogo não só poderá gerenciar a sua agenda de consultas, como também poderá ter acesso a todo o histórico do paciente - dados pessoais e os registros de cada sessão, além de ter um melhor controle dos pagamentos, assim facilitando o seu trabalho juntando todas as informações em um só lugar. O aplicativo também será um facilitador para o psicólogo na hora de emitir recibos, notas fiscais e declarações, além do profissional também poder divulgar o seu trabalho nas mídias sociais. Foi feito o fluxograma (Figma) e o relacionamento entre as tabelas do banco de dados (PostgreSQL) para mostrar um pouco do processo.
 
 <div align="center">
   
