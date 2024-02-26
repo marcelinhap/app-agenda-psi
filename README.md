@@ -8,18 +8,6 @@ O logotipo, que foi gerado por Inteligência Artificial, foi pensado para fazer 
 
 <div align="center">
   
-![Diagrama: ](diagrama_app.png)
-
-</div>
-
-<div align="center">
-  
 ![Fluxograma: ](fluxograma_app.png)
 
 </div>
-
-<div align="center">
-  
-![Telas: ](telas_app.png)
-
-</div> 
